@@ -5,7 +5,8 @@
 - 🤝 Network with me ⬇ 
     - https://twitter.com/peachylexow
    - https://www.linkedin.com/in/alexis-aguilar-7869b31ab/
-
+- 🖊️ Read about my coding journey:
+    - https://alexisintech.wixsite.com/blog
 <!---
 alexisxdawn/alexisxdawn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
