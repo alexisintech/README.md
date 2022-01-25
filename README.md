@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning through freecodecamp and 100devs.
 - 💪 Hoping to tackle hackreactor by the fall!
 - 🤝 Network with me ⬇ 
-    - https://twitter.com/peachylexow
+    - https://twitter.com/alexisintech
    - https://www.linkedin.com/in/alexis-aguilar-7869b31ab/
 - 🖊️ Read about my coding journey:
     - https://alexisintech.wixsite.com/blog
