@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexisxdawn
-- 💻 I’m a complete newbie to programming.
-- 🌱 I'm currently learning through freecodecamp and 100devs.
-- 💪 Hoping to tackle hackreactor by the fall!
+- 💻 I’m a software engineer at 100Devs.
+- 🌱 I'm currently learning full stack web development through freecodecamp and 100devs.
+- 💪 Proficient with HTML and CSS.
 - 🤝 Network with me ⬇ 
     - https://twitter.com/alexisintech
    - https://www.linkedin.com/in/alexis-aguilar-7869b31ab/
