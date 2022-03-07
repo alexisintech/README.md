@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexisxdawn
 - 💻 I’m a software engineer at 100Devs.
-- 🌱 I'm currently learning full stack web development through freecodecamp and 100devs.
+- 🌱 I'm currently learning full stack web development.
 - 💪 Proficient with HTML and CSS.
 - 🤝 Network with me ⬇ 
     - https://twitter.com/alexisintech
