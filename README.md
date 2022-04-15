@@ -8,7 +8,7 @@
 ## Network with me ⬇ 
 💙 [Twitter](https://twitter.com/alexisintech) 
 
-🤍 [Linkedin](https://www.linkedin.com/in/alexis-aguilar-7869b31ab/)
+🤍 [Linkedin](https://www.linkedin.com/in/alexisintech)
 
 ## Read about my coding journey:
 🖊️ [My blog](https://alexisintech.wixsite.com/blog)
