@@ -1,6 +1,6 @@
 <img src="draft8.jpg" width="100%">
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=961711&vCenter=true&center=true&width=460&lines=software+engineer;forever+learningmental+health+advocate;fitness+enthusiast" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=961711&vCenter=true&center=true&width=460&lines=software+engineer;forever+learning;mental+health+advocate;fitness+enthusiast" </p>
 
 <p align="center">
   <a href="https://twitter.com/alexisintech" target="_blank">
