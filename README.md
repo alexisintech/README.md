@@ -26,7 +26,6 @@
 
 ## Network with me ⬇ 
 💙 [Twitter](https://twitter.com/alexisintech) 
-
 🤍 [Linkedin](https://www.linkedin.com/in/alexisintech)
 
 ## Read about my coding journey:
