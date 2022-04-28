@@ -1,4 +1,4 @@
-<img src="draft8.jpg" width="100%">
+<img src="draft8.jpg" width="80%">
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=961711&vCenter=true&center=true&width=460&lines=software+engineer;forever+learningmental+health+advocate;fitness+enthusiast" </p>
 
