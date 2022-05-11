@@ -25,9 +25,9 @@
 ![skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,git,discord,figma,wordpress,vscode&theme=light)
 
 ## Network with me ⬇ 
-💙 [Twitter](https://twitter.com/alexisintech) 
+❤️ [Twitter](https://twitter.com/alexisintech) 
 
-🤍 [Linkedin](https://www.linkedin.com/in/alexisintech)
+❤️ [Linkedin](https://www.linkedin.com/in/alexisintech)
 
 ## Read about my coding journey:
 🖊️ [My blog](https://alexisintech.wixsite.com/blog)
