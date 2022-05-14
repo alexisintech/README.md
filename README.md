@@ -41,11 +41,11 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 			<h3 align="center" color="white">Frontend</h2>
 			<br>
 				<div align="center" >  
-					<img src="reactjs.svg" alt="React" height="50" />
+					<img src="react.svg" alt="React" height="50" />
 						&nbsp&nbsp&nbsp
-					<img  src="css3.svg" alt="CSS3" height="50" />
+					<img  src="CSS3.svg" alt="CSS3" height="50" />
 						&nbsp&nbsp&nbsp
-					<img  src="html.svg" alt="HTML5" height="50" />
+					<img  src="HTML5.svg" alt="HTML5" height="50" />
 						&nbsp&nbsp&nbsp
 					<img  src="javascript.svg" alt="JavaScript" height="50" />  
 					</div>
@@ -55,7 +55,7 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="mongodb.svg" alt="MongoDB" height="50" />  
+					<img  src="mongoDB.svg" alt="MongoDB" height="50" />  
 					&nbsp&nbsp&nbsp
 					<img  src="nodejs.svg" alt="Node.js" height="50" /> 
 					&nbsp&nbsp&nbsp
@@ -63,7 +63,7 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 					&nbsp&nbsp&nbsp
 					<img  src="javascript.svg" alt="JavaScript" height="50" /> 
 					&nbsp&nbsp&nbsp
-					<img  src="ex.svg" alt="Express.js" height="50" />
+					<img  src="express.svg" alt="Express.js" height="50" />
 					<br>
 					<br>	
 				</div>
@@ -75,9 +75,11 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 					&nbsp
 					<img  src="vscode.svg" alt="VS Code" height="44" />  
 					&nbsp&nbsp&nbsp
-					<img  src="figma.svg" alt="Figma" height="44" /> 
+					<img  src="photoshop.svg" alt="Photoshop" height="44" />  
 					&nbsp&nbsp&nbsp
-					<img  src="photoshop.svg" alt="Photoshop" height="44" />   	
+					<img  src="figma.svg" alt="Figma" height="44" />     	
+					&nbsp&nbsp&nbsp
+					<img  src="wordpress.svg" alt="Wordpress" height="44" />   
                     &nbsp&nbsp&nbsp
                     <img  src="wordpress.svg" alt="Wordpress" height="44" />   	
 				</div>
