@@ -73,15 +73,13 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="vscode.svg" alt="VS Code" height="50" />  
+					<img  src="vscode.svg" alt="VS Code" height="44" />  
 					&nbsp&nbsp&nbsp
-					<img  src="photoshop.svg" alt="Photoshop" height="50" />  
+					<img  src="photoshop.svg" alt="Photoshop" height="44" />  
 					&nbsp&nbsp&nbsp
-					<img  src="figma.svg" alt="Figma" height="50" />     	
+					<img  src="figma.svg" alt="Figma" height="44" />     	
 					&nbsp&nbsp&nbsp
-					<img  src="wordpress.svg" alt="Wordpress" height="50" />   
-                    &nbsp&nbsp&nbsp
-                    <img  src="wordpress.svg" alt="Wordpress" height="44" />   	
+					<img  src="wordpress.svg" alt="Wordpress" height="44" />   
 				</div>
 			</td>
 		</tr>
