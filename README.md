@@ -76,30 +76,3 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 </div>
 </br>
 </br>
-
-<!-- CONTACT -->
-
-<h2 align="center" color="white">Let's connect!</h2>
-<p align="center">
-	<a href="https://twitter.com/alexisintech" target="_blank">
-		<img
-			src="twitter.svg"
-			width="40px"
-			style="padding-left: 10px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://angel.co/u/alexis-aguilar-2" target="_blank">
-		<img
-			src="angellist.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/alexisintech/" target="_blank">
-		<img
-			src="linkedin.svg"
-			width="40px"
-		/>
-	</a>
-</p>
