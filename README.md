@@ -27,6 +27,9 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 
 <h2 align="center" color="white">Projects</h2>
 <p align="center" color="white">Coming soon...</p>
+</br>
+</br>
+
 
 <!-- TECHNOLOGIES -->
  
