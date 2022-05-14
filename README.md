@@ -25,10 +25,47 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 
 <!-- PROJECTS -->
 
-<h2 align="center" color="white">Projects</h2>
-<p align="center" color="white">Coming soon...</p>
-</br>
-</br>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Personal Portfolio</h2>
+				<div align="center" >  
+					<a href='https://alexisintech.github.io/'>
+						<img src="" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/alexisintech/alexisintech.github.io" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://alexisintech.github.io" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio site that showcases a few of my projects and includes ways to contact me.</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">Tic Tac Toe</h2>
+				<div align="center" >  
+					<a href='https://alexisintech-tictactoe.netlify.app/'>
+						<img src="" alt="Pick 'em Drinks!" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/alexisintech/tic-tac-toe" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://alexisintech-tictactoe.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
+				</div>
+	<tr>
 
 
 <!-- TECHNOLOGIES -->
