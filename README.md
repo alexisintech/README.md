@@ -69,7 +69,8 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 			</td>
 		</tr>
 	</table>
-
+<br>
+</br>
 
 <!-- TECHNOLOGIES -->
  
