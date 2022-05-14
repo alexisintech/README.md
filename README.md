@@ -42,7 +42,7 @@
 			<h3 align="center" color="white">Frontend</h2>
 			<br>
 				<div align="center" >  
-					<img src="reactjs.svg" alt="React" height="50" />
+					<img src="reactjs.svg" alt="React" height="100" />
 						&nbsp&nbsp&nbsp
 					<img  src="css3.svg" alt="CSS3" height="50" />
 						&nbsp&nbsp&nbsp
