@@ -14,12 +14,19 @@
   </a>
 </p>
 
+<!-- ABOUT ME -->
+
 <h2 align="center" color="white">About Me 🖤</h2>
 <p align="center">
 Hello! I'm Alexis and I'm a full stack software engineer passionate about delivering creative designs and organized, polished code. I love using my skills to make visions become reality. Aside from programming, I enjoy weight lifting, mental health advocation, constantly learning, and forever growing. #CommunityTaught
 <p>
 </br>
 </br>
+
+<!-- PROJECTS -->
+
+<h2 align="center" color="white">Projects</h2>
+<span align="center" color="white">Coming soon...</span>
 
 <!-- TECHNOLOGIES -->
  
