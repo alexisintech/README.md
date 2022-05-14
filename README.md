@@ -25,6 +25,7 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 
 <!-- PROJECTS -->
 
+<h2 align="center" color="white">Projects</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -65,7 +66,8 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
-	<tr>
+			</td>
+	</tr>
 
 
 <!-- TECHNOLOGIES -->
