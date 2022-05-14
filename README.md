@@ -67,7 +67,8 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
 			</td>
-	</tr>
+		</tr>
+	</table>
 
 
 <!-- TECHNOLOGIES -->
