@@ -51,7 +51,7 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 				<h3 align="center" color="white">Tic Tac Toe</h2>
 				<div align="center" >  
 					<a href='https://alexisintech-tictactoe.netlify.app/'>
-						<img src="https://github.com/alexisintech/alexisintech/blob/main/tictactoegif.gif" alt="Pick 'em Drinks!" height="100%" />
+						<img src="https://github.com/alexisintech/alexisintech/blob/main/tictactoegif.gif" height="80%" />
 					</a>
 					<br>
 					<br>
