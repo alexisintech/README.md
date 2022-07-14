@@ -20,12 +20,12 @@
 <p align="center">
 Hello! I'm Alexis and I'm a full stack software engineer passionate about delivering creative designs and organized, polished code. I love using my skills to make visions become reality. Aside from programming, I enjoy weight lifting, mental health advocation, constantly learning, and forever growing. #CommunityTaught
 <p>
-</br>
-</br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alexisintech&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=961711&currStreakNum=DDDDDD&ring=DD2727&fire=961711&sideLabels=DD2727)](https://git.io/streak-stats">
 </div>
+
+<br>
 
 <!-- PROJECTS -->
 
