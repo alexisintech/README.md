@@ -26,6 +26,7 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 </div>
 
 <br>
+</br>
 
 <!-- PROJECTS -->
 
