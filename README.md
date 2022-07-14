@@ -23,6 +23,10 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 </br>
 </br>
 
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexisintech&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=961711&currStreakNum=DDDDDD&ring=DD2727&fire=961711&sideLabels=DD2727)](https://git.io/streak-stats)
+</div>
+
 <!-- PROJECTS -->
 
 <h2 align="center" color="white">Projects</h2>
