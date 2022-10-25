@@ -18,7 +18,7 @@
 
 <h2 align="center" color="white">About Me 🖤</h2>
 <p align="center">
-Hello! I'm Alexis and I'm a full stack software engineer passionate about delivering creative designs and organized, polished code. I love using my skills to make visions become reality. Aside from programming, I enjoy weight lifting, mental health advocation, constantly learning, and forever growing. #CommunityTaught
+Hello! I'm Alexis and I'm an inquisitive, passionate software engineer with a deep interest in API development. I love using my skills to make visions become reality. Aside from programming, I enjoy weight lifting, mental health advocation, constantly learning, and forever growing. #CommunityTaught
 <p>
 
 <!--
