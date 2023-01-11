@@ -74,7 +74,7 @@ Hello! I'm Alexis and I'm an inquisitive, passionate software engineer with a de
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					 <p><strong>MongoDB, Express, Node, EJS, JavaScript, CSS3/Bootstrap, HTML5</strong> - A journaling app that encourages users to improve their mental health through practicing mindfulness.</p>
+					 <p><strong>MongoDB + Mongoose, Express, Node, JavaScript, EJS</strong> - A journaling app that encourages users to improve their mental health through practicing mindfulness.</p>
 				</div>
 			</td>
 		</tr>
@@ -95,7 +95,7 @@ Hello! I'm Alexis and I'm an inquisitive, passionate software engineer with a de
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					<p><strong>React, Express, Node, JavaScript, CSS3, HTML5</strong> - Standard calculator functionality (addition, subtraction, division, multiplication) with floating point calculations supported.</p>
+					<p><strong>Express, Node, JavaScript, React</strong> - Standard calculator functionality (addition, subtraction, division, multiplication) with floating point calculations supported.</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -114,7 +114,7 @@ Hello! I'm Alexis and I'm an inquisitive, passionate software engineer with a de
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					 <p><strong>Express, Node EJS, JavaScript, CSS3, HTML5</strong> - An API that provides a directory of efficacious websites that generate CSS design elements.</p>
+					 <p><strong>Express, Node, JavaScript, EJS</strong> - An API that provides a directory of efficacious websites that generate CSS design elements.</p>
 				</div>
 			</td>
 		</tr>
