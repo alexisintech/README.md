@@ -59,22 +59,62 @@ Hello! I'm Alexis and I'm an inquisitive, passionate software engineer with a de
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Tic Tac Toe</h2>
+				<h3 align="center" color="white">Mindfully</h2>
 				<div align="center" >  
-					<a href='https://alexisintech-tictactoe.netlify.app/'>
-						<img src="https://github.com/alexisintech/alexisintech/blob/main/tictactoegif.gif" height="80%" />
+					<a href='https://mindfully.up.railway.app/'>
+						<img src="https://github.com/alexisintech/mindfully/blob/main/public/imgs/mindfully.gif" height="80%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/alexisintech/tic-tac-toe" target="_blank">
+						<a href="https://github.com/alexisintech/mindfully" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://alexisintech-tictactoe.netlify.app/" target="_blank">
+						<a href="https://mindfully.up.railway.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
+					 <p><strong>MongoDB, Express, Node, EJS, JavaScript, CSS3/Bootstrap, HTML5</strong> - A journaling app that encourages users to improve their mental health through practicing mindfulness.</p>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">Calculator (React)</h2>
+				<div align="center" >  
+					<a href='https://github.com/alexisintech/calculator'>
+						<img src="https://github.com/alexisintech/calculator/blob/main/calculatorgif.gif" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/alexisintech/calculator" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://alexisintech-calculator.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+						</a>	
+					</p>
+					<p><strong>React, Express, Node, JavaScript, CSS3, HTML5</strong> - Standard calculator functionality (addition, subtraction, division, multiplication) with floating point calculations supported.</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center" color="white">CSS Generators API</h2>
+				<div align="center" >  
+					<a href='https://cssgenerators.co/'>
+						<img src="https://github.com/alexisintech/css-generators-api/blob/main/public/assets/cssgenerators.gif" height="80%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/the-api-administration/css-generators-api" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://cssgenerators.co/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+						</a>	
+					</p>
+					 <p><strong>Express, Node EJS, JavaScript, CSS3, HTML5</strong> - An API that provides a directory of efficacious websites that generate CSS design elements.</p>
 				</div>
 			</td>
 		</tr>
