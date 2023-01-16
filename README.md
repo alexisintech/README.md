@@ -21,7 +21,7 @@
 
 <h2 align="center" color="white">About Me 🖤</h2>
 <p align="center">
-Hello! I'm Alexis and I'm an inquisitive, passionate software engineer with a deep interest in API development. Currently targeting full-stack, frontend, or backend roles using JavaScript, Typescript, Node, Express, MongoDB, and/or React. Aside from programming, I enjoy anime, reading, personal and community development, constantly learning, and forever growing.
+Hello! I'm Alexis and I'm an insatiably inquisitive software engineer with a passion for web development. Currently targeting full-stack, frontend, or backend roles using JavaScript, Typescript, Node, Express, MongoDB, and/or React. Aside from programming, I enjoy anime, personal and community development, constantly learning, and forever growing.
 <p>
 
 <!--
