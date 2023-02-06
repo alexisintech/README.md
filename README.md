@@ -43,7 +43,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive software engineer with a pas
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
 					<a href='https://alexisintech.github.io/'>
-						<img src="https://github.com/alexisintech/alexisintech.github.io/blob/main/public/portfolio.gif" height="100%" />
+						<img src="https://github.com/alexisintech/alexisintech.github.io/blob/main/portfolio.gif" height="100%" />
 					</a>
 					<br>
 					<br>
