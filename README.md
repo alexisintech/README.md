@@ -55,7 +55,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive software engineer with a pas
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio site that showcases a few of my projects and includes ways to contact me.</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - Come get to know me a little (or a lot!) and see a few of my projects.</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -80,22 +80,22 @@ Hello! I'm Alexis and I'm an insatiably inquisitive software engineer with a pas
 		</tr>
 		<tr>
 			<td width="50%">
-				<h3 align="center" color="white">Calculator (React)</h2>
+				<h3 align="center" color="white">Seize The Day</h2>
 				<div align="center" >  
-					<a href='https://github.com/alexisintech/calculator'>
-						<img src="https://github.com/alexisintech/calculator/blob/main/calculatorgif.gif" height="100%" />
+					<a href='https://github.com/alexisintech/seize-the-day'>
+						<img src="https://github.com/alexisintech/seize-the-day/blob/main/client/public/imgs/new-seize-the-day.gif" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/alexisintech/calculator" target="_blank">
+						<a href="https://github.com/alexisintech/seize-the-day" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://alexisintech.github.io/" target="_blank">
+						<a href="https://seize-the-day.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					<p><strong>Express, Node, JavaScript, React</strong> - Standard calculator functionality (addition, subtraction, division, multiplication) with floating point calculations supported.</p>
+					<p><strong>React, Express, Node, MongoDB + Mongoose, JavaScript</strong> - An app for organizing your goals and accomplishments. </p>
 				</div>
 			</td>
 			<td width="50%">
