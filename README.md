@@ -1,6 +1,6 @@
 <img src="alexis-aguilar-linkedin.png" width="100%">
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=961711&vCenter=true&center=true&width=460&lines=software+engineer;constantly+learning;forever+growing;mental+health+advocate;fitness+enthusiast" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=961711&vCenter=true&center=true&width=460&lines=software+engineer;constantly+learning;forever+growing;community+developer;mental+health+advocate" </p>
 
 <p align="center">
   <a href="https://alexisintech.github.io/" target="_blank">
