@@ -55,7 +55,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - Come get to know me a little (or a lot!) and see a few of my projects.</p>
+					<p><strong>React, Bootstrap, JavaScript</strong> - Come get to know me a little (or a lot!) and see a few of my projects.</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -74,7 +74,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					 <p><strong>MongoDB + Mongoose, Express, Node, JavaScript, EJS</strong> - A journaling app that encourages users to improve their mental health through practicing mindfulness.</p>
+					 <p><strong>EJS, Bootstrap, Express, Node, MongoDB + Mongoose, JavaScript</strong> - A journaling app that encourages users to improve their mental health through practicing mindfulness.</p>
 				</div>
 			</td>
 		</tr>
@@ -95,7 +95,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					<p><strong>React, Express, Node, MongoDB + Mongoose, JavaScript</strong> - An app for organizing your goals and accomplishments. </p>
+					<p><strong>React, Material UI, Express, Node, MongoDB + Mongoose, JavaScript</strong> - An app for organizing your goals and accomplishments. </p>
 				</div>
 			</td>
 			<td width="50%">
@@ -114,7 +114,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
 						</a>	
 					</p>
-					 <p><strong>Express, Node, JavaScript, EJS</strong> - An API that provides a directory of efficacious websites that generate CSS design elements.</p>
+					 <p><strong>EJS, Express, Node, JavaScript</strong> - An API that provides a directory of efficacious websites that generate CSS design elements.</p>
 				</div>
 			</td>
 		</tr>
