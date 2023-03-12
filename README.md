@@ -134,13 +134,13 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 				<div align="center" >  
 					<img src="react.svg" alt="React" height="50" />
 						&nbsp&nbsp&nbsp
-					<img src="mui.svg" alt="React" height="50" />
+					<img src="mui.svg" alt="Material UI" height="50" />
 						&nbsp&nbsp&nbsp
 					<img  src="chakraui.svg" alt="MongoDB" height="50" />  
 					&nbsp&nbsp&nbsp
-					<img src="boostrap.svg" alt="React" height="50" />
+					<img src="bootstrap.svg" alt="Bootstrap" height="50" />
 						&nbsp&nbsp&nbsp
-					<img src="tailwind.svg" alt="React" height="50" />
+					<img src="tailwindcss.svg" alt="Tailwind CSS" height="50" />
 						&nbsp&nbsp&nbsp
 					<img  src="CSS3.svg" alt="CSS3" height="50" />
 						&nbsp&nbsp&nbsp
@@ -160,7 +160,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 					&nbsp&nbsp&nbsp
 					<img  src="mongoDB.svg" alt="MongoDB" height="50" />  
 					&nbsp&nbsp&nbsp
-					<img  src="postgresql.svg" alt="MongoDB" height="50" />  
+					<img  src="postgresql.svg" alt="PostgreSQL" height="50" />  
 					&nbsp&nbsp&nbsp
 					<img  src="git.svg" alt="Git" height="50" />  					
 					<br>
