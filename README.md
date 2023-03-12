@@ -134,6 +134,14 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 				<div align="center" >  
 					<img src="react.svg" alt="React" height="50" />
 						&nbsp&nbsp&nbsp
+					<img src="mui.svg" alt="React" height="50" />
+						&nbsp&nbsp&nbsp
+					<img  src="chakraui.svg" alt="MongoDB" height="50" />  
+					&nbsp&nbsp&nbsp
+					<img src="boostrap.svg" alt="React" height="50" />
+						&nbsp&nbsp&nbsp
+					<img src="tailwind.svg" alt="React" height="50" />
+						&nbsp&nbsp&nbsp
 					<img  src="CSS3.svg" alt="CSS3" height="50" />
 						&nbsp&nbsp&nbsp
 					<img  src="HTML5.svg" alt="HTML5" height="50" />
@@ -146,15 +154,15 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="mongoDB.svg" alt="MongoDB" height="50" />  
-					&nbsp&nbsp&nbsp
 					<img  src="nodejs.svg" alt="Node.js" height="50" /> 
 					&nbsp&nbsp&nbsp
-					<img  src="git.svg" alt="Git" height="50" />  
-					&nbsp&nbsp&nbsp
-					<img  src="javascript.svg" alt="JavaScript" height="50" /> 
-					&nbsp&nbsp&nbsp
 					<img  src="express.svg" alt="Express.js" height="50" />
+					&nbsp&nbsp&nbsp
+					<img  src="mongoDB.svg" alt="MongoDB" height="50" />  
+					&nbsp&nbsp&nbsp
+					<img  src="postgresql.svg" alt="MongoDB" height="50" />  
+					&nbsp&nbsp&nbsp
+					<img  src="git.svg" alt="Git" height="50" />  					
 					<br>
 					<br>	
 				</div>
