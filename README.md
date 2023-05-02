@@ -172,13 +172,10 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 				<br>
 				<div align="center">
 					&nbsp
-					<img  src="vscode.svg" alt="VS Code" height="44" />  
-					&nbsp&nbsp&nbsp
 					<img  src="photoshop.svg" alt="Photoshop" height="44" />  
 					&nbsp&nbsp&nbsp
 					<img  src="figma.svg" alt="Figma" height="44" />     	
 					&nbsp&nbsp&nbsp
-					<img  src="wordpress.svg" alt="Wordpress" height="44" />   
 				</div>
 			</td>
 		</tr>
