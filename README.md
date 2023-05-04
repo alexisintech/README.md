@@ -48,7 +48,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/alexisintech/alexisintech.github.io" target="_blank">
+						<a href="https://github.com/alexisintech/portolio" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://alexisin.tech" target="_blank">
