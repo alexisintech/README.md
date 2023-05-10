@@ -160,10 +160,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 					&nbsp&nbsp&nbsp
 					<img  src="mongoDB.svg" alt="MongoDB" height="50" />  
 					&nbsp&nbsp&nbsp
-					<img  src="postgresql.svg" alt="PostgreSQL" height="50" />  
-									
-					<br>
-					<br>	
+					<img  src="postgresql.svg" alt="PostgreSQL" height="50" />   						
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">	
@@ -175,8 +172,7 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 					&nbsp&nbsp&nbsp
 					<img  src="figma.svg" alt="Figma" height="44" />     	
 					&nbsp&nbsp&nbsp
-					<img  src="git.svg" alt="Git" height="50" />  	
-					&nbsp&nbsp&nbsp
+					<img  src="git.svg" alt="Git" height="50" /> 
 				</div>
 			</td>
 		</tr>
@@ -206,4 +202,3 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
 </div>
 <br>
 </br>
-
