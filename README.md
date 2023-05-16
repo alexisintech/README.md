@@ -126,57 +126,22 @@ Hello! I'm Alexis and I'm an insatiably inquisitive web developer with a passion
  
 <h2 align="center" color="white">Technologies</h2>
 <div align="center">
-<table>
-	<tr>
-		<td valign="top" width="33.3333%">
-			<h3 align="center" color="white">Frontend</h2>
-			<br>
-				<div align="center" >  
-					<img src="react.svg" alt="React" height="50" />
-						&nbsp&nbsp&nbsp
-					<img src="mui.svg" alt="Material UI" height="50" />
-						&nbsp&nbsp&nbsp
-					<img  src="chakraui.svg" alt="MongoDB" height="50" />  
-					&nbsp&nbsp&nbsp
-					<img src="bootstrap.svg" alt="Bootstrap" height="50" />
-						&nbsp&nbsp&nbsp
-					<img src="tailwindcss.svg" alt="Tailwind CSS" height="50" />
-						&nbsp&nbsp&nbsp
-					<img  src="CSS3.svg" alt="CSS3" height="50" />
-						&nbsp&nbsp&nbsp
-					<img  src="HTML5.svg" alt="HTML5" height="50" />
-						&nbsp&nbsp&nbsp
-					<img  src="javascript.svg" alt="JavaScript" height="50" />  
-					</div>
-			</td>
-			<td valign="top" width="33.3333%">
-				<h3 align="center" color="white">Backend</h2>
-				<br>
-				<div align="center">
-					&nbsp
-					<img  src="nodejs.svg" alt="Node.js" height="50" /> 
-					&nbsp&nbsp&nbsp
-					<img  src="express.svg" alt="Express.js" height="50" />
-					&nbsp&nbsp&nbsp
-					<img  src="mongoDB.svg" alt="MongoDB" height="50" />  
-					&nbsp&nbsp&nbsp
-					<img  src="postgresql.svg" alt="PostgreSQL" height="50" />   						
-				</div>
-			</td>
-			<td valign="top" width="33.3333%">	
-				<h3 align="center" color="white">Other Software</h2>
-				<br>
-				<div align="center">
-					&nbsp
-					<img  src="photoshop.svg" alt="Photoshop" height="44" />  
-					&nbsp&nbsp&nbsp
-					<img  src="figma.svg" alt="Figma" height="44" />     	
-					&nbsp&nbsp&nbsp
-					<img  src="git.svg" alt="Git" height="50" /> 
-				</div>
-			</td>
-		</tr>
-	</table>
+	
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+
 </div>
 </br>
 </br>
