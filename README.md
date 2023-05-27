@@ -118,7 +118,7 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-272b33?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-272b33?style=for-the-badge&logo=mui&logoColor=white) 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+![Chakra](https://img.shields.io/badge/chakra-272b33?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=white) 
 ![Jest](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
