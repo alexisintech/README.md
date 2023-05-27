@@ -14,10 +14,8 @@ I currently:
 Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I very much enjoy reading philosophy. <br>
 I made it out of a very adverse childhood, and as a woman of color with disabilities, I face many challenges. But in turn, I have gained fathomless empathy and I have an incredibly diverse perspective to share. You can see glimpses of this through my [twitter](https://twitter.com/alexisintech) or my [linkedin](https://linkedin.com/in/alexisintech). And there's a little bit more about me on my [portfolio](https://alexisin.tech).
 
-<br />
-
 <!-- PROJECTS -->
-
+<!-- 
 ## ☁ Projects
 <div align="center">
 	<table>
@@ -26,19 +24,19 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
 					<a href='https://alexisin.tech'>
-						<img src="https://github.com/alexisintech/alexisintech.github.io/blob/main/portfolio.gif" height="100%" />
+						<img src="https://github.com/alexisintech/portfolio/blob/main/public/portfolio.gif" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/alexisintech/portolio" target="_blank">
+						<a href="https://github.com/alexisintech/portfolio" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://alexisin.tech" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
 						</a>	
 					</p>
-					<p><strong>React, Bootstrap, JavaScript</strong> - Come get to know me a little (or a lot!) and see a few of my projects.</p>
+					<p><strong>React, Tailwind, TypeScript, Next.js</strong> - Come get to know me a little and see a few of my projects.</p>
 				</div>
 			</td>
 			<td width="50%">
@@ -54,7 +52,7 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://mindfully.up.railway.app/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
 						</a>	
 					</p>
 					 <p><strong>EJS, Bootstrap, Express, Node, MongoDB + Mongoose, JavaScript</strong> - A journaling app that encourages users to improve their mental health through practicing mindfulness.</p>
@@ -75,7 +73,7 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://seize-the-day.netlify.app/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
 						</a>	
 					</p>
 					<p><strong>React, Material UI, Express, Node, MongoDB + Mongoose, JavaScript</strong> - An app for organizing your goals and accomplishments. </p>
@@ -94,7 +92,7 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://cssgenerators.co/" target="_blank">
-							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=961711"/>
+							<img src="https://img.shields.io/badge/-website-white?style=for-the-badge&color=7e22ce"/>
 						</a>	
 					</p>
 					 <p><strong>EJS, Express, Node, JavaScript</strong> - An API that provides a directory of efficacious websites that generate CSS design elements.</p>
@@ -102,7 +100,7 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 			</td>
 		</tr>
 	</table>
-</div>
+</div> -->
 
 <!-- TECHNOLOGIES -->
  
