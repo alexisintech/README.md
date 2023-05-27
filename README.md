@@ -1,6 +1,6 @@
 <!-- ABOUT ME -->
 
-## 🌙 Hi, I'm Lex
+## 🌙 Hi, I'm Alexis
 
 I transitioned from vet med to full stack dev. 
 
