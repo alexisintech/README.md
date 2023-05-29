@@ -134,6 +134,6 @@ I made it out of a very adverse childhood, and as a woman of color with disabili
 <a target="_blank" href="https://www.linkedin.com/in/alexisintech/">
   <img src="https://img.shields.io/badge/linkedin-272b33?logo=linkedin&logoColor=2d87c9&style=for-the-badge">
 </a>
-<a target="_blank" href="https://angel.co/u/alexisintech">
+<a target="_blank" href="https://wellfound.com/u/alexis-aguilar-2">
   <img src="https://img.shields.io/badge/angellist-272b33?logo=angellist&logoColor=white&style=for-the-badge">
 </a>
