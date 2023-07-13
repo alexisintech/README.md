@@ -6,7 +6,7 @@ I transitioned from vet med to full stack dev.
 
 I currently:
 
-- am ready to work with you :) \~[hire me](mailto:alexmerona@gmail.com)\~
+- do things and stuff at [Clerk](https://github.com/clerkinc)
 - build full stack apps
 - teach others how to build full stack apps
 - manage communities, bc I believe the human purpose is connection
