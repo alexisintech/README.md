@@ -2,7 +2,7 @@
 
 ## 🌙 Hi, I'm Alexis
 
-I transitioned from vet med to full stack dev. 
+I am a relentless explorer. I strive to continue to grow in all things, not just tech. I'm passionate about empathy and connection. In this life, nothing matters when we're all gone. But there are three things that we can control: the joy we experience, the memories we create, and the connections we make with other people. So I'm just trying to be a good person who loves and makes others feel loved. I feel fulfilled when I'm providing value, and I'm happiest when making others happy.
 
 I currently:
 
@@ -11,8 +11,7 @@ I currently:
 - teach others how to build full stack apps
 - manage communities, bc I believe the human purpose is connection
 
-Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I very much enjoy reading philosophy. <br>
-I made it out of a very adverse childhood, and as a woman of color with disabilities, I face many challenges. But in turn, I have gained fathomless empathy and I have an incredibly diverse perspective to share. You can see glimpses of this through my [twitter](https://twitter.com/alexisintech) or my [linkedin](https://linkedin.com/in/alexisintech). And there's a little bit more about me on my [portfolio](https://alexisin.tech).
+Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I love going to live music events with my rave fam. I also enjoy reading philosophy, cooking, and watching anime. <br>
 
 <!-- PROJECTS -->
 <!-- 
