@@ -2,16 +2,11 @@
 
 ## 🌙 Hi, I'm Alexis
 
-I currently:
-
-- do things and stuff at [Clerk](https://github.com/clerkinc)
-- build full stack apps
-- teach others how to build full stack apps
-- manage communities, bc I believe the human purpose is connection
+I currently do things and stuff at [Clerk](https://github.com/clerkinc)
 
 I am a relentless explorer. I strive to continue to grow in all things, not just tech. I'm passionate about empathy and connection. In this life, nothing matters when we're all gone. But there are three things that we can control: the joy we experience, the memories we create, and the connections we make with other people. So I'm just trying to be a good person who loves and makes others feel loved. I feel fulfilled when I'm providing value, and I'm happiest when making others happy.
 
-Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I love going to live music events with my rave fam. I also enjoy reading philosophy, cooking, and watching anime. <br>
+Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/buddhalexis), with an affinity for electric guitars. I love going to live music events with my rave fam. I also enjoy reading about philosophy and Roman history, cooking, lifting weights, and watching anime. <br>
 
 <!-- PROJECTS -->
 <!-- 
@@ -112,19 +107,11 @@ Outside of tech, I'm a huge [music connoisseur](https://open.spotify.com/user/bu
 ![Express.js](https://img.shields.io/badge/express-272b33?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/mongodb-272b33?logo=mongodb&logoColor=4aae3e&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-272b33?style=for-the-badge&logo=postgresql&logoColor=31648c)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-272b33?style=for-the-badge&logo=tailwind-css&logoColor=07b0ce) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-272b33?style=for-the-badge&logo=bootstrap&logoColor=7710ee) 
-![MUI](https://img.shields.io/badge/MUI-272b33?style=for-the-badge&logo=mui&logoColor=0079f2) 
-![Chakra](https://img.shields.io/badge/chakra-272b33?style=for-the-badge&logo=chakraui&logoColor=3ec7be) 
-![Git](https://img.shields.io/badge/git-272b33?style=for-the-badge&logo=git&logoColor=f05033) 
-![Jest](https://img.shields.io/badge/-jest-272b33?style=for-the-badge&logo=jest&logoColor=99425b) 
-![Netlify](https://img.shields.io/badge/netlify-272b33?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-272b33?style=for-the-badge&logo=vercel&logoColor=white) 
 
 <!-- SOCIALS -->
  
 ## 🌸 Connect with me
-<a target="_blank" href="https://alexisin.tech">
+<a target="_blank" href="https://alexisintech.com">
   <img src="https://img.shields.io/badge/Portfolio-272b33?logo=circle&logoColor=white&style=for-the-badge">
 </a>
 <a target="_blank" href="https://twitter.com/alexisintech">
